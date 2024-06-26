@@ -15,5 +15,5 @@ Step 6: in the terminal window write - 'cd backend', then write - node server.js
 
 Step 7: open a new terminal window;
 
-Step 8: in the terminal window write - 'cd project-manager', then write - npm start(it proceeds to open React app tab).
+Step 8: in the terminal window write - 'cd project-manager', then write - npm start(it proceeds to open React app tab)
 
